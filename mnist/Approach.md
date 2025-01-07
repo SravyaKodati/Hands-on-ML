@@ -24,8 +24,11 @@
 
 ## Choice of Parameters:
    - **Batch Size (32)**: Chosen to balance training speed and model performance.
-   - **Epochs (5)**: A reasonable starting point for experimenting. Additional epochs could improve accuracy further but may lead to overfitting without regularization.
+   - **Epochs (5)**: A reasonable starting point for experimenting. Additional epochs could improve accuracy further but may lead to overfitting without 
+     regularization.
    - **Dropout Rate (0.2)**: Dropout was used to prevent overfitting, and 20% is a commonly used value.
    - **Adam Optimizer**: Selected due to its adaptive learning rate, making it suitable for a variety of neural networks.
+     
+##
 
 I made it a point to log every step of the process, which might make the code appear a bit lengthy. However, I’ve learned it the hard way that logging each step is invaluable, especially when working with complex pipelines where debugging can be challenging.
