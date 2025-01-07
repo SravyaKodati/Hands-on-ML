@@ -31,4 +31,4 @@
      
 ##
 
-I made it a point to log every step of the process, which might make the code appear a bit lengthy. However, I’ve learned it the hard way that logging each step is invaluable, especially when working with complex pipelines where debugging can be challenging.
+I made it a point to log every step of the process, which might make the code appear a bit lengthy. However, I’ve learned it the hard way that logging each step is invaluable, especially when working with complex pipelines where debugging can be pretty annoying.
